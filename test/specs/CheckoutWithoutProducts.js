@@ -1,5 +1,5 @@
-describe('Log in varification', () => {
-    it('Log in', async () => {
+describe('CheckoutWithoutProducts', () => {
+    it('CheckoutWithoutProducts', async () => {
 
         browser.url('https://www.saucedemo.com/')
         await browser.pause(2000)
